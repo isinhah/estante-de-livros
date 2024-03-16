@@ -1,4 +1,4 @@
-# Livraria
+# Estante de Livros
 
 ![NPM](https://img.shields.io/npm/l/react)
 
